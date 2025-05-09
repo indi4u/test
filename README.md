@@ -1,2 +1,2 @@
 # test
-This is a test repo. Ignore
+This is a test api repo. Ignore
